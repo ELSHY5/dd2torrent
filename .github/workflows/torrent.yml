@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
+  name: "ABYUSIF"
+  comment: "ABYUSIF"
+  url: "https://download1326.mediafire.com/duqz0nzv677g1s7DoiTzA4GCWOzfVnJlJ_x5XhW-SoC_BudEhs_7Bzfrrj1Kh943okXK7oK10k2XmA5TwKIPeH8dtpcta3ui-jgs0D_Ak4LhcrHu-gVSHEyGhWXrPtbpYgS8-pa7ZapVxUn9WGNppadpjILGflKTnz5Of76JXAbB7A/4xsylsg3rpa3r12/ABYUSIF.rar"
+  file_name: "ABYUSIF.rar"
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
